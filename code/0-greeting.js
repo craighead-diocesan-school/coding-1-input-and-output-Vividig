@@ -9,5 +9,6 @@ function greeting() {
 }
 
 function joke() {
-  // write the code for your joke here.
+  alert('why did the chicken cross the road?' )
+  alert('To get to the other side' )
 }
